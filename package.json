@@ -1,0 +1,12 @@
+{
+  "name": "note-taker-working",
+  "version": "1.0.0",
+  "description": "Note taking application designed to write, save, and delete notes, written to and retrieved from a backend JSON file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
